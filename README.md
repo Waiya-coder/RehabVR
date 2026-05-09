@@ -7,9 +7,11 @@ shoulder rehabilitation.
 
 ## Demo : apk + video
 
-[Link to APK download]([./Build/VRRowing.apk](https://drive.google.com/file/d/1XJPJA2J8wDOoMMYVyEROFDKAuogonLN7/view?usp=drive_link))
+APK FILE :  https://drive.google.com/file/d/1XJPJA2J8wDOoMMYVyEROFDKAuogonLN7/view?usp=drive_link
 
-![Boat scene screenshot]([./Screenshots/boat.png](https://drive.google.com/file/d/1UkWDD411Qi-rTi9-ZwF5eIVyig5mbgXV/view?usp=drive_link))
+
+ DEMO  VIDEO : https://drive.google.com/file/d/1UkWDD411Qi-rTi9-ZwF5eIVyig5mbgXV/view?usp=drive_link
+
 
 ## What it does
 
