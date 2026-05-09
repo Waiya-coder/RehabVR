@@ -5,7 +5,7 @@ The player sits in a rowing boat, grabs two oars, and rows toward a distant
 glowing lamppost — each stroke replicating the Standing Row exercise used in 
 shoulder rehabilitation.
 
-## Demo
+## Demo : apk + video
 
 [Link to APK download]([./Build/VRRowing.apk](https://drive.google.com/file/d/1XJPJA2J8wDOoMMYVyEROFDKAuogonLN7/view?usp=drive_link))
 
