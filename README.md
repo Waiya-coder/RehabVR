@@ -10,7 +10,7 @@ shoulder rehabilitation.
 APK FILE :  https://drive.google.com/file/d/1XJPJA2J8wDOoMMYVyEROFDKAuogonLN7/view?usp=drive_link
 
 
- DEMO  VIDEO : https://drive.google.com/file/d/13De_rcOrR3apFKpxj0bA4t-erBmcLLb4/view?usp=drive_link
+ DEMO  VIDEO : https://drive.google.com/file/d/1tXvTg3DP1clS340stQ9LVrIhBlmZUW1r/view?usp=sharing
 
 
 ## What it does
